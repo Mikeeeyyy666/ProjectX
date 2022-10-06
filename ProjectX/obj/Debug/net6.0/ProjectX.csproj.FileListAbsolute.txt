@@ -1,0 +1,15 @@
+K:\GH\ProjectX\bin\Debug\net6.0\ProjectX.exe
+K:\GH\ProjectX\bin\Debug\net6.0\ProjectX.deps.json
+K:\GH\ProjectX\bin\Debug\net6.0\ProjectX.runtimeconfig.json
+K:\GH\ProjectX\bin\Debug\net6.0\ProjectX.dll
+K:\GH\ProjectX\bin\Debug\net6.0\ProjectX.pdb
+K:\GH\ProjectX\obj\Debug\net6.0\ProjectX.csproj.AssemblyReference.cache
+K:\GH\ProjectX\obj\Debug\net6.0\ProjectX.GeneratedMSBuildEditorConfig.editorconfig
+K:\GH\ProjectX\obj\Debug\net6.0\ProjectX.AssemblyInfoInputs.cache
+K:\GH\ProjectX\obj\Debug\net6.0\ProjectX.AssemblyInfo.cs
+K:\GH\ProjectX\obj\Debug\net6.0\ProjectX.csproj.CoreCompileInputs.cache
+K:\GH\ProjectX\obj\Debug\net6.0\ProjectX.dll
+K:\GH\ProjectX\obj\Debug\net6.0\refint\ProjectX.dll
+K:\GH\ProjectX\obj\Debug\net6.0\ProjectX.pdb
+K:\GH\ProjectX\obj\Debug\net6.0\ProjectX.genruntimeconfig.cache
+K:\GH\ProjectX\obj\Debug\net6.0\ref\ProjectX.dll
